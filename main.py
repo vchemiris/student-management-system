@@ -189,6 +189,6 @@ def DisplayData():
 
 #calling function
 DisplayForm()
-if __name__=='__main__':
+ if __name__ == '__main__':
 #Running Application
  mainloop()
